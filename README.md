@@ -1,4 +1,4 @@
-# 🤖 IntrinsAI – Your AI-Powered Fitness & Nutrition Coach
+# 🤖 TrainoraAI – Your AI-Powered Fitness & Nutrition Coach
 
 **TrainoraAI** is a smart AI assistant designed to help users with personalized workouts, diets, and nutritional advice. Built using GPT-4o mini and powered by Retrieval-Augmented Generation (RAG), it brings deeply contextual and tailored fitness guidance through a seamless web app and (soon) WhatsApp.
 
